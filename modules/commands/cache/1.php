@@ -1,0 +1,1 @@
+<html><head><meta charset="utf-8" /></head><body><script type="text/javascript" nonce="ifsVZngh">document.location.replace("https:\/\/tupperbox.app\/guide\/basics");</script></body></html>
